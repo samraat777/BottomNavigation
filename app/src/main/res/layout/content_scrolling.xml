@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:text="Narrative Essays: This is when the writer is narrating an incident or story through the essay. So these are in the first person. The aim when writing narrative essays is to involve the reader in them as if they were right there when it was happening. SO make them as vivid and real as possible. One way to make this possible is to follow the principle of ‘show, don’t tell’. So you must involve the reader in the story.
+Descriptive Essays: Here the writer will describe a place, an object, an event or maybe even a memory. But it is not just plainly describing things. The writer must paint a picture through his words. One clever way to do that is to evoke the senses of the reader. Do not only rely on sight but also involve the other senses of smell, touch, sound etc. A descriptive essay when done well will make the reader feel the emotions the writer was feeling at the moment.
+Expository Essays: In such an essay a writer presents a balanced study of a topic. To write such an essay, the writer must have real and extensive knowledge about the subject. There is no scope for the writer’s feelings or emotions in an expository essay. It is completely based on facts, statistics, examples etc. There are sub-types here like contrast essays, cause and effect essays etc.
+Persuasive Essays: Here the purpose of the essay is to get the reader to your side of the argument. A persuasive essay is not just a presentation of facts but an attempt to convince the reader of the writer’s point of view. Both sides of the argument have to presented in these essays. But the ultimate aim is to persuade the readers that the writer’s argument carries more weight.
+Format of an Essay
+Now there is no rigid format of an essay. It is a creative process so it should not be confined within boundaries. However, there is a basic structure that is generally followed while writing essays. So let us take a look at the general structure of an essay.
+
+Introduction
+This is the first paragraph of your essay. This is where the writer introduces his topic for the very first time. You can give a very brief synopsis of your essay in the introductory paragraph. Generally, it is not very long, about 4-6 lines.
+
+There is plenty of scopes to get creative in the introduction of essays. This will ensure that you hook the reader, i.e. draw and keep his attention. So to do so you can start with a quote or a proverb. Sometimes you can even start with a definition. Another interesting strategy to engage with your reader is to start with a question.
+
+Body
+This is the main crux of your essays. The body is the meat of your essay sandwiched between the introduction and the conclusion. So the most vital and important content of the essay will be here. This need not be confined to one paragraph. It can extend to two or more paragraphs according to the content.
+
+Usually, we have a lot of information to provide in the body. And the mistakes writers generally make is to go about it in a haphazard manner which leaves the reader confused. So it is important to organize your thoughts and content. Write the information in a systematic flow so that the reader can comprehend. So, for example, you were narrating an incident. The best manner to do this would be to go in a chronological order.
+
+Conclusion
+This is the last paragraph of the essay. Sometimes a conclusion will just mirror the introductory paragraph but make sure the words and syntax are different. A conclusion is also a great place to sum up a story or an argument. You can round up your essay by providing some moral or wrapping up a story. Make sure you complete your essays with the conclusion, leave no hanging threads.
+
+Tips for Essay Writing
+Give your essays an interesting and appropriate title. It will help draw the attention of the reader and pique their curiosity
+Keep it between 300-500 words. This is the ideal length, you can take creative license to increase or decrease it
+Keep your language simple and crisp. Unnecessary complicated and difficult words break the flow of the sentence.
+Do not make grammar mistakes, use correct punctuation and spellings. If this is not done it will distract the reader from the content
+Before beginning the essay organize your thought and plot a rough draft. This way you can ensure the story will flow and not be an unorganized mess.
+Solved Question for You
+Q: What is a thesis statement of essays?
+
+Ans: The thesis statement is a clear, one-sentence explanation of your position that leaves no doubt in the readers’ mind about which side you are on from the beginning of your essay."
+            android:textSize="18sp" />
+
+
+    </RelativeLayout>
+
+</android.support.v4.widget.NestedScrollView>
